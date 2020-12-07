@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-The aim of this project is to make Apotti patient records system easier to use for physicians. A major problem with the system is a lack of logic and properly designed user interface.
+The aim of this project is to make Apotti patient records system easier to use. A major problem with the system is a lack of logic and properly designed user interface.
 It also limits users' choices in a way that makes its use more complicated.
 
 
