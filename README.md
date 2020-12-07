@@ -10,14 +10,9 @@ It also limits users' choices in a way that makes its use more complicated.
 
 ## Background
 
-Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
-
-This is how you make a list, if you need one:
 * It's way too complex to make orders in Apotti. It's much quicker just to write down your orders as a free text and let the AI generate structured commands from the free text.
 * It is diffucult to get your daily needed information out of Apotti, because everything is scattered in separate small boxes without uniform design.
 * All possible commands and screens should be available all the time and not only when the patient is in certain mode.
-* Medicine lists should be controlled within the program without prescripiton data
-
 
 ## How is it used?
 
@@ -36,7 +31,6 @@ Project Apotti has already wasted 800 000 000 euros without accomplishin this, s
 ## What next?
 
 I would happily become an end user once the project is functioning. Further development will of course be needed.
-
 
 ## Acknowledgments
 
