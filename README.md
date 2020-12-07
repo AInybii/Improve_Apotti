@@ -18,6 +18,8 @@ It also limits users' choices in a way that makes its use more complicated.
 
 This program is an add-on for Apotti system that overrides restrictions within the system and creates a new user friendly interface
 
+![This is what improved Apotti could look like](Improve_Apotti.png)
+
 ## Data sources and AI methods
 This program will need to be controlled by an experienced coder. The AI will need to be able to recode free text into structural form.
 
