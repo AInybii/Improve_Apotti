@@ -4,7 +4,8 @@ Final project for the Building AI course
 
 ## Summary
 
-The aim of this project is to make Apotti system easier to use. A major problem with the system is a lack of logic and proper user interface. It also limits users' choices in a way that makes its use more complicated.
+The aim of this project is to make Apotti system easier to use. A major problem with the system is a lack of logic and proper user interface.
+It also limits users' choices in a way that makes its use more complicated.
 
 
 ## Background
@@ -15,7 +16,7 @@ This is how you make a list, if you need one:
 * It's way too complex to make orders in Apotti. It's much quicker just to write down your orders as a free text and let the AI generate structured commands from the free text.
 * It is diffucult to get your daily needed information out of Apotti, because everything is scattered in separate small boxes without uniform design.
 * All possible commands and screens should be available all the time and not only when the patient is in certain mode.
-* Medice lists should be controlled within the program without prescripiton data
+* Medicine lists should be controlled within the program without prescripiton data
 
 
 ## How is it used?
