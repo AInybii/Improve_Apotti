@@ -1,11 +1,11 @@
 # Improve Apotti
 
-* Final project for the Building AI course
+Final project for the Building AI course
 
 ## Summary
 
-* The aim of this project is to make Apotti system easier to use. A major problem with the system is a lack of logic and proper user interface.
-* It also limits users' choices in a way that makes its use more complicated.
+The aim of this project is to make Apotti system easier to use. A major problem with the system is a lack of logic and proper user interface.
+It also limits users' choices in a way that makes its use more complicated.
 
 
 ## Background
@@ -16,21 +16,26 @@
 
 ## How is it used?
 
-* This program is an add-on for Apotti system that overrides restrictions within the system and creates a new user friendly interface
+This program is an add-on for Apotti system that overrides restrictions within the system and creates a new user friendly interface
 
-* ![This is what improved Apotti could look like](Improve_Apotti.png)
+![This is what improved Apotti could look like](Improve_Apotti.png)
 
 
 ## Data sources and AI methods
-* This program will need to be controlled by an experienced coder. The AI will need to be able to recode free text into structural form.
+This program will need to be controlled by an experienced coder. The AI will need to be able to recode free text into structural form.
+
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Challenges
 
-* Project Apotti has already wasted 800 000 000 euros without accomplishin this, so it must be really diffult...
+Project Apotti has already wasted 800 000 000 euros without accomplishin this, so it must be really diffult...
 
 ## What next?
 
-* I would happily become an end user once the project is functioning. Further development will of course be needed.
+I would happily become an end user once the project is functioning. Further development will of course be needed.
 
 ## Acknowledgments
 
