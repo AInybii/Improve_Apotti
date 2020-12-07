@@ -20,15 +20,6 @@ This program is an add-on for Apotti system that overrides restrictions within t
 
 ![This is what improved Apotti could look like](Improve_Apotti.png)
 
-
-## Data sources and AI methods
-This program will need to be controlled by an experienced coder. The AI will need to be able to recode free text into structural form.
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Data_source | Users       |
-| 2nd_source  | Developers  |
-
 ## Challenges
 
 Project Apotti has already wasted 800 000 000 euros without accomplishin this, so it must be really diffult...
