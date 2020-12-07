@@ -27,7 +27,7 @@ This program will need to be controlled by an experienced coder. The AI will nee
 | Syntax      | Description |
 | ----------- | ----------- |
 | Data_source | Users       |
-| 2ng_source  | Developers  |
+| 2nd_source  | Developers  |
 
 ## Challenges
 
