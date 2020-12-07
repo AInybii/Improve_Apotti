@@ -1,2 +1,52 @@
-# Improve_Apotti
-Building AI course project
+# Improve Apotti
+
+Final project for the Building AI course
+
+## Summary
+
+The aim of this project is to make Apotti patient records system easier to use for physicians. A major problem with the system is a lack of logic and properly designed user interface.
+It also limits users' choices in a way that makes its use more complicated.
+
+
+## Background
+
+Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
+
+This is how you make a list, if you need one:
+* It's way too complex to make orders in Apotti. It's much quicker just to write down your orders as a free text and let the AI generate structured commands from the free text.
+* It is diffucult to get your daily needed information out of Apotti, because everything is scattered in separate small boxes without uniform design.
+* All possible commands and screens should be available all the time and not only when the patient is in certain mode.
+* Medice lists should be controlled within the program without prescripiton data
+
+
+## How is it used?
+
+This program is an add-on for Apotti system that overrides restrictions within the system and creates a new user friendly interface
+
+Images will make your README look nice!
+Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
+![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+
+If you need to resize images, you have to use an HTML tag, like this:
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+
+
+## Data sources and AI methods
+This program will need to be controlled by an experienced coder. The AI will need to be able to recode free text into structural form.
+
+## Challenges
+
+Project Apotti has already wasted 800 000 000 euros without accomplishin this, so it must be really diffult...
+
+## What next?
+
+I would happily become an end user once the project is functioning. Further development will of course be needed.
+
+
+## Acknowledgments
+
+* Apotti. CGI. Uranus. Miranda. Effica. Pegasos. GFS. Lauri Ahonen.
+* do not use code, images, data etc. from others without permission
+* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
+  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
+* etc
